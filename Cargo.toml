@@ -1,0 +1,8 @@
+[package]
+name = "string_to_png"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.25.0-preview.0"
+rand = "0.9.0-alpha.0"
